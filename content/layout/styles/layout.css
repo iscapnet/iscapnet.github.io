@@ -1004,8 +1004,9 @@ table a, #comments a {
         }
 
         .split section, .split section::after {
-            color: #FFFFFF;
-            background-color: rgba(193,39,45,.75);
+            color: #FFFFFF;        
+ /*           background-color: rgba(193,39,45,.75);          */
+            background-color: #c1272d;                  
         }
 
 #testimonials {
